@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Метки",
+    "slug": "marker-list",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFF8EF"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF8EF"
+      }
+    },
+    "plugins": ["expo-router"]
+  }
+}
